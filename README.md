@@ -9,8 +9,6 @@ This means, this contains nothing, and we are using it to test the builds trigge
 Test change RP
 Test2 change RP
 Test3 change RP 'everything' on github event settings
-Test remove github trigger from pipeline DSL
 ### License
 
 This code is open source software licensed under the [Apache 2.0 License]("http://www.apache.org/licenses/LICENSE-2.0.html").
-
