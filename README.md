@@ -10,9 +10,7 @@ Test change RP
 Test2 change RP
 Test3 change RP 'everything' on github event settings
 Test4 change RP 'releases' on github event settings
-Test5 change RP 'releases' on github and create tag
 ### License
 
 This code is open source software licensed under the [Apache 2.0 License]("http://www.apache.org/licenses/LICENSE-2.0.html").
-
 
